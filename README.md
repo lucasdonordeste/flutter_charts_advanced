@@ -1,31 +1,25 @@
-# Discontinued
+# Flutter Charts Advanced
 
-**This project is no longer maintained**, and will not receive further updates. Community members interested in collaborating on a community-maintained fork can coordinate in [this issue](https://github.com/google/charts/issues/798).
+[![pub package](https://img.shields.io/pub/v/flutter_charts_advanced.svg)](https://pub.dartlang.org/packages/flutter_charts_advanced)
 
----
+Este é um pacote de visualização de dados para Flutter, criado para dar continuidade ao pacote `charts_flutter`, que foi descontinuado. Ele é escrito nativamente em Dart e segue os princípios do Material Design.
 
-Charts is a general charting library, currently enabled for the
-[Flutter mobile UI framework](https://flutter.io).
+## Gráficos suportados
 
-See the [online gallery](https://google.github.io/charts/flutter/gallery.html) for supported chart
-types and examples of how to custom components of the chart.
+Para ver os tipos de gráficos suportados, visite nossa [galeria online](https://google.github.io/charts/flutter/gallery.html).
 
-*Note*: This is not an official Google product.
+## Como usar a biblioteca
 
-[![Travis CI Build Status](https://travis-ci.org/google/charts.svg?branch=master)](https://travis-ci.org/google/charts)
+A pasta `/example/` dentro de `flutter_charts_advanced` no [repositório do GitHub](https://github.com/lucasdonordeste/flutter_charts_advanced) contém um aplicativo Flutter completo com vários exemplos de demonstração.
 
-## charts_common
+## Desenvolvimento
 
-[![charts_common pub package](https://img.shields.io/pub/v/charts_common.svg)](https://pub.dartlang.org/packages/charts_common)
+Este projeto é uma continuação da biblioteca `charts`, que foi descontinuada. Estamos comprometidos em manter e melhorar esta biblioteca para a comunidade Flutter.
 
-A common library for charting packages.
+## Contribuição
 
-## charts_flutter
+Contribuições são muito bem-vindas! Por favor, leia o [guia de contribuição](link_para_seu_guia_de_contribuição) para saber como você pode ajudar.
 
-[![charts_flutter pub package](https://img.shields.io/pub/v/charts_flutter.svg)](https://pub.dartlang.org/packages/charts_flutter)
+## Licença
 
-A charting package for [Flutter](https://flutter.io), supporting both Android
-and iOS.
-
-All charts packages are licensed under the Apache 2 license, see the
-[LICENSE](LICENSE) and [AUTHORS](AUTHORS) files for details.
+Este projeto está licenciado sob a licença Apache 2.0, veja os arquivos LICENSE e AUTHORS para detalhes.
